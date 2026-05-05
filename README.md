@@ -1,5 +1,5 @@
 # Lab 5 - Starter
-Jared Rosas and 
+Jared Rosas
 
 
 ---- 
